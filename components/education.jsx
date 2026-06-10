@@ -10,7 +10,7 @@ const educationHistory = [
     degree: "B.Tech in Computer Engineering",
     institution: "Chandubhai S Patel Institute of Technology, CHARUSAT",
     period: "2022 - 2026",
-    achievements: ["CGPA: 9.10/10.0"],
+    achievements: ["CGPA: 9.27/10.0"],
   },
   {
     degree: "Higher Secondary Certificate (HSC)",
