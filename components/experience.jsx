@@ -9,7 +9,7 @@ const experiences = [
   {
     title: "Frontend Developer",
     company: "Charusat University",
-    period: "2024 - Present",
+    period: "March 2024 - April 2025",
     description:
       "Worked as a frontend developer for university project under mentorship of Prof. Ronak Patel, developed web-based platform that digitizes and streamlines the entire student project workflow, from submission to evaluation and performance tracking. ",
     skills: ["React", "Redux" , "Tailwind","Router"],
@@ -21,6 +21,14 @@ const experiences = [
     description:
       "Obtained Basic to intermediate level of knowledge and hands on experience in ReactJs with industry standards and experties.",
     skills: ["JavaScript", "HTML", "CSS", "Bootstrap", "ReactJs"],
+  },
+  {
+    title: "Software Engineer Intern",
+    company: "Azilen Technologies Pvt Ltd",
+    period: "January,2026 - june,2026",
+    description:
+      "Obained industry level training on core software engineer fundamentals, hands on experience on enterprise level project on .NET and Angular tech.",
+    skills: [".NET","Angular","Postgres","Linux"],
   }
 ]
 
