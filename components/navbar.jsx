@@ -57,7 +57,7 @@ export default function Navbar() {
             ))}
             <ModeToggle />
             <Button asChild className="rounded-md">
-              <Link href="https://drive.google.com/file/d/1yylfCazevJMNgFjaiHkeL0vrlK7YIMJ3/view?usp=sharing" target="_blank">
+              <Link href="https://drive.google.com/file/d/1bm_mF4YFQ0p4O-3kg5rHpqw57mUha8-x/view?usp=drive_link" target="_blank">
               <Download size={16} />
                 Resume
               </Link>
@@ -96,7 +96,7 @@ export default function Navbar() {
                 </Link>
               ))}
               <Button asChild className="w-full">
-                <Link href="https://drive.google.com/file/d/1yylfCazevJMNgFjaiHkeL0vrlK7YIMJ3/view?usp=sharing" target="_blank">
+                <Link href="https://drive.google.com/file/d/1bm_mF4YFQ0p4O-3kg5rHpqw57mUha8-x/view?usp=drive_link" target="_blank">
                   Resume
                 </Link>
               </Button>
